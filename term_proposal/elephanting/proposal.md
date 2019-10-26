@@ -19,6 +19,8 @@ Since monovision approach needs only one sensor so I decided to implement a dist
 * Test the result with ground truth. Hope the error is within 10%.
 * The approaches will be like:
 
+![approach](./approach.png)
+
 ## Implementation
 
 Input data will be a image, a video or using webcam. Parameters of the camera are also needed which are height, vertical angle of the camera and field of view angles.
