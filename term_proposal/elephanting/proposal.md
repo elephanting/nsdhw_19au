@@ -8,7 +8,7 @@ Sterovision is the extraction of 3D information from digital images which has hi
 
 On the other hand, monovision which requires only one camera needs less computation time but has less accurate.
 
-Since monovision approach needs only one sensor so I decided to implement a distance estimation algorithm in this term project.
+Since monovision approach needs only one sensor, I decided to implement a distance estimation algorithm using single camera in this term project.
 
 ## ToDo
 
